@@ -1,5 +1,5 @@
 def hello
-   puts 'hello'
+   puts 'hello pepper'
 end
 
 hello
